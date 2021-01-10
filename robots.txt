@@ -1,0 +1,5 @@
+# /robots.txt file for http://www.martins.eng.br
+# mail alessandro.martins@gmail.com for constructive criticism
+
+User-agent: *
+Disallow: /images

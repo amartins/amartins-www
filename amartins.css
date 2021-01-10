@@ -1,0 +1,18 @@
+h2 { font-size: 19pt; }
+h3 { font-size: 14pt; }
+h4 { font-size: 12pt; }
+h5 { font-size: 10pt; letter-spacing: 1px; }
+p { text-align: justify; color: #000; }
+a { color: #4477aa; text-decoration: none; }
+a:visited { color: #4477aa; }
+a:hover { color: #660033; }
+ul{ color: #000; width: 80%; margin:1px; padding:1px; } 
+div.link{ line-height:1.2; margin-left:20px; }
+div#footer { padding:0px; border:0px;  }
+p#copyright { float: left; } 
+p#w3c_logo { float: right; }
+p#w3c_logo img { border: 0px; }
+p#ipv6 { float: right; }
+p#ipv6 img { border: 0px; }
+
+

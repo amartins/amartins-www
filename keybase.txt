@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/xsandro
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.martins.eng.br
+  * I am xsandro (https://keybase.io/xsandro) on keybase.
+  * I have a public key with fingerprint 970E B424 0106 967C EBB4  FA5A 1BCB 506E 489C D567
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010197faa1215a5543b03f9768663af70630139df92c0474045c78cb0918aac51dd20a",
+            "fingerprint": "970eb4240106967cebb4fa5a1bcb506e489cd567",
+            "host": "keybase.io",
+            "key_id": "1bcb506e489cd567",
+            "kid": "010197faa1215a5543b03f9768663af70630139df92c0474045c78cb0918aac51dd20a",
+            "uid": "1a59631894b224ae2ff9a21793bbf019",
+            "username": "xsandro"
+        },
+        "service": {
+            "hostname": "www.martins.eng.br",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467921289,
+    "expire_in": 157680000,
+    "prev": "fe726de08c122d69303ccf5c33b75b648214e0826f0cdbc9c736d35178fcca3e",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJNSBVRFH5WVgr9bqRMpeEFio/HzJ2ZO3MfQW6klFpFP2r5uvfOndf0
+fDPPmfEPUbKyHyQJLbA0qEgkspJsUy0yKSVMiRZBoBW1sJSyZQsX3THbtexuDvec
+7/vOdw7nxbqVoewMdS7nnlczUpwx8byvLnSodfhCs0Aco0mINQtJthRYjcE8P560
+DCEmiJIoIc3EWAKSilVVkYkom0iDOoQyNjURyqIkI8NEgIqKpoiKSjWdEhFJOsZU
+lQwDiFiICKZlJ5ibdi3b57JIExlRgMLlIYIaZYQoJlaxRChRRcgUHVFDhRonHne8
+gMHNEeyxqOXwHP/El+z9A/+ffdf96YNVBGVJRwoBQMEMmCbCQNKQTIjJOwVAj7k2
+TjGObvSwbbiO0BIReLLeoizYazDIMqChoSGawq5v2V6U2YkocblA2nV8hzo1vH7c
+99NeLOD7TeklAiPxZak4sWyDL5Mz6pnrWY4txCSOpL4VaEsK1BCQgI4iAmtMWy6L
+WwFC5aOL/AV9WD2XNJkGoMFEnUoAGBDJokypqVJZJppKoKIDSeFVAE2RGoQiqsnQ
+kFVJ001KscyEYLha2xFiCreJE1zSsxI29utcJrSMjhxZFcrIDq3OXBEcWSg7a+Pf
+0yuYWxt6aG7a8yh8He3Dc186tg2GWsONkwMI9dd+P9x1anRrqz+Sn/x1KbtgA6ya
+aw7/LDp/saxiscGZHc/vzF/U82Yq0hVl5Zs/XD7xrmzIuQra4N6e098HIiCzO0E7
+OpPtZ56YbW8jjecGorlrS6ryROtE6ONAlzwDPsxvyX3QZ919lkpOV91/n1RT1YMj
+w1N5fTcik3bn/tM5t2+u3j0WfmVPr3+6eOvKO1hdWFhpdBXvf107nyqy0mVtXVa5
+/bJ9jVNTefDTk95PT7NyvnXvTB4rvRY++/nA2PhQD134Orvr5OPnww+P7riz/cxs
+sn1ioWgWxCZKS+Yzpt587P9xoPc3Uss98A==
+=Mnf4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xsandro
+
+==================================================================
+
