@@ -76,7 +76,7 @@
 
     <div id="footer">
      <p id="copyright">
-      <small><i>Copyright &copy; 1995-2020 Alessandro Martins</i></small>
+      <small><i>Copyright &copy; 1995-2021 Alessandro Martins</i></small>
      </p>
     </div>
 
