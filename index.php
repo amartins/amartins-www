@@ -31,10 +31,10 @@
     <h3>Bio</h3>
       <div style="width:60%">
      <p>
-       I work at <a href="http://www.equinix.com">Equinix, Inc.</a> as Senior Manager, Global Connectivity Management.
+       I work at <a href="http://www.equinix.com">Equinix, Inc.</a> as Director, Global Networks Connectivity.
      </p>
      <p>
-      I'm a  <a href="http://www.linux.org">Linux</a> expert and my favorite distro is <a href="http://www.slackware.com">Slackware&reg;</a>. You can browse some of my packages <a href="/slackware" title="/slackware">at this page.</a> You can download my <a href="/amartins-ssh-key.txt" title="ssh-key">public SSH key here.</a>
+      I'm a  <a href="http://www.linux.org">Linux</a> expert and my favorite distro is <a href="http://www.slackware.com">Slackware&reg;</a>. You can browse some of my legacy packages <a href="/slackware" title="/slackware">at this page.</a> You can download my <a href="/amartins-ssh-key.txt" title="ssh-key">public SSH key here.</a>
      </p>
       </div>
 
